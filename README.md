@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbrazz&layout=compact&theme=tokyonight)
 
-<!--
-**danielbrazz/danielbrazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor Web na [Alisios](http://alisioscrm.com.br/)
 
-Here are some ideas to get you started:
+## 💼 Tecnologias e Especialidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐘 **PHP** (backend robusto e bem estruturado)
+- 🔄 **API REST** (consumo e criação)
+- 🖥️ **Vue.js** (aprendizado contínuo e projetos em andamento)
+- ⚛️ **React** (em fase de aprendizado)
+- 🛢️ **Oracle PL/SQL** (procedures, triggers, jobs, views)
+- 🐧 **Linux** (ambiente de desenvolvimento e produção)
+
+
+🌐 Conecte-se
+ - [LinkedIn](https://www.linkedin.com/in/daniel-braz-b52447207/)
