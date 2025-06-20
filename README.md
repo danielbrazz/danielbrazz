@@ -7,7 +7,6 @@
 
 - 🐘 **PHP** (backend robusto e bem estruturado)
 - 🔄 **API REST** (consumo e criação)
-- 🖥️ **Vue.js** (aprendizado contínuo e projetos em andamento)
 - ⚛️ **React** (em fase de aprendizado)
 - 🛢️ **Oracle PL/SQL** (procedures, triggers, jobs, views)
 - 🐧 **Linux** (ambiente de desenvolvimento e produção)
